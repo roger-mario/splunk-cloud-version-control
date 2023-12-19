@@ -1,4 +1,4 @@
-# splunk-cloud-version-control
+# Splunk Cloud: Version Control System
 Version Control for your SplunkCloud Instance
 
 ## Endpoint Overview
